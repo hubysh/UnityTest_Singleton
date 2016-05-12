@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class scpTestSingleton : MonoBehaviour
+public class TestSingleton : MonoBehaviour
 {
 	bool isActive = true;
 
-	void TestSingleton()
+	void TestSingletonScript()
 	{
 		if (isActive)
 		{

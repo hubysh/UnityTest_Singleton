@@ -190,7 +190,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11423650, guid: 004d95168958bc345bbfe012c183acb5, type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: TestSingleton
+      value: TestSingletonScript
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11470474, guid: 004d95168958bc345bbfe012c183acb5, type: 2}
